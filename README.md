@@ -6,7 +6,7 @@ This project focuses on predicting solar irradiance using meteorological data co
 
 ## Overview
 
-The goal of this project is to predict solar radiation (measured in watts per square meter) based on environmental factors such as temperature, humidity, barometric pressure, wind direction, and wind speed. By leveraging machine learning techniques, this project aims to provide accurate forecasts of solar irradiance, which is beneficial for optimizing solar energy production and understanding atmospheric conditions.
+The goal of this project is to predict solar radiation based on environmental factors such as temperature, humidity, barometric pressure, wind direction, and wind speed. By leveraging machine learning techniques, this project aims to provide accurate forecasts of solar irradiance, which is beneficial for optimizing solar energy production and understanding atmospheric conditions.
 
 ## Dataset
 
